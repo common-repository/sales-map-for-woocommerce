@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.sgitswcs_map {
+    width: 100%;
+    height: 50vh;
+}
